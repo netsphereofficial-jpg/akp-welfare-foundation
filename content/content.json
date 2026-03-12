@@ -1,0 +1,190 @@
+{
+  "siteConfig": {
+    "name": "AKP Welfare Foundation",
+    "tagline": "Together We Can Change Lives",
+    "description": "AKP Welfare Foundation is dedicated to empowering underprivileged communities through education, nutrition, healthcare, and sustainable development programs across India.",
+    "email": "info@akpwelfare.org",
+    "phone": "+91 98765 43210",
+    "address": "123, MG Road, Bangalore, Karnataka 560001, India",
+    "social": {
+      "facebook": "https://facebook.com/akpwelfare",
+      "twitter": "https://twitter.com/akpwelfare",
+      "instagram": "https://instagram.com/akpwelfare",
+      "linkedin": "https://linkedin.com/company/akpwelfare",
+      "youtube": "https://youtube.com/@akpwelfare"
+    },
+    "registration": {
+      "ngo": "NGO/2018/BLR/12345",
+      "pan": "AAATA1234A",
+      "section80G": "80G/2019/DEL/67890",
+      "fcra": "FCRA/2020/MUM/11111"
+    }
+  },
+  "hero": {
+    "badge": "Making a difference since 2018",
+    "titleLine1": "Together We Can",
+    "titleLine2": "Change Lives",
+    "description": "AKP Welfare Foundation empowers underprivileged communities through education, nutrition, healthcare, and sustainable development programs across India.",
+    "ctaPrimary": "Donate Now",
+    "ctaSecondary": "Become a Volunteer",
+    "backgroundImage": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1920&q=80",
+    "trustBadges": ["80G Tax Exempt", "FCRA Registered", "100% Transparent"]
+  },
+  "impactStats": [
+    { "label": "Meals Provided", "value": 250000, "suffix": "+", "icon": "meal" },
+    { "label": "Children Educated", "value": 15000, "suffix": "+", "icon": "education" },
+    { "label": "Families Helped", "value": 50000, "suffix": "+", "icon": "family" },
+    { "label": "Volunteers", "value": 5000, "suffix": "+", "icon": "volunteer" }
+  ],
+  "programsSection": {
+    "subtitle": "What We Do",
+    "title": "Our Programs",
+    "description": "We run impactful programs that create lasting change in the lives of those who need it most."
+  },
+  "programs": [
+    {
+      "id": "education",
+      "title": "Education Support",
+      "shortDescription": "Providing quality education and scholarships to underprivileged children, ensuring no child is left behind.",
+      "fullDescription": "Our Education Support program provides comprehensive learning opportunities including school supplies, scholarships, after-school tutoring, digital literacy programs, and mentorship.",
+      "icon": "FaGraduationCap",
+      "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=800&q=80",
+      "stats": { "beneficiaries": "15,000+", "schools": "120+", "scholarships": "3,500+" },
+      "color": "#2E7D32"
+    },
+    {
+      "id": "food",
+      "title": "Food Distribution",
+      "shortDescription": "Fighting hunger by providing nutritious meals and food supplies to families in need across communities.",
+      "fullDescription": "Our Food Distribution program operates community kitchens and mobile food distribution units that serve nutritious meals daily.",
+      "icon": "FaUtensils",
+      "image": "https://images.unsplash.com/photo-1593113598332-cd288d649433?w=800&q=80",
+      "stats": { "meals": "250,000+", "kitchens": "25+", "cities": "15+" },
+      "color": "#FF6F00"
+    },
+    {
+      "id": "healthcare",
+      "title": "Medical Camps",
+      "shortDescription": "Organizing free medical camps and health awareness programs in rural and underserved areas.",
+      "fullDescription": "Our Medical Camps program brings quality healthcare to doorsteps of communities that lack access.",
+      "icon": "FaHeartbeat",
+      "image": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=800&q=80",
+      "stats": { "patients": "75,000+", "camps": "500+", "doctors": "200+" },
+      "color": "#d32f2f"
+    },
+    {
+      "id": "community",
+      "title": "Community Welfare",
+      "shortDescription": "Building stronger communities through skill development, women empowerment, and infrastructure projects.",
+      "fullDescription": "Our Community Welfare program focuses on holistic development including skill training workshops, women self-help groups, clean water initiatives.",
+      "icon": "FaHandsHelping",
+      "image": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+      "stats": { "villages": "200+", "women": "10,000+", "projects": "350+" },
+      "color": "#1565c0"
+    }
+  ],
+  "storiesSection": {
+    "subtitle": "Real Impact",
+    "title": "Stories of Change",
+    "description": "Every donation, every volunteer hour creates ripples of change. Here are some stories that inspire us."
+  },
+  "stories": [
+    {
+      "id": 1,
+      "title": "From Street to School: Riya's Journey",
+      "excerpt": "Riya was selling flowers at traffic signals before AKP Foundation stepped in. Today, she tops her class and dreams of becoming a doctor.",
+      "image": "https://images.unsplash.com/photo-1509099836639-18ba1795216d?w=600&q=80",
+      "category": "Education"
+    },
+    {
+      "id": 2,
+      "title": "A Village Transformed by Clean Water",
+      "excerpt": "Sundarpura village had no clean drinking water. Our community well project now serves 500 families with safe, clean water every day.",
+      "image": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?w=600&q=80",
+      "category": "Community"
+    },
+    {
+      "id": 3,
+      "title": "Feeding Hope: The Community Kitchen Story",
+      "excerpt": "Our Bangalore community kitchen started with 50 meals a day. Today it serves 2,000 nutritious meals daily to those in need.",
+      "image": "https://images.unsplash.com/photo-1567057419565-4349c49d8a04?w=600&q=80",
+      "category": "Food"
+    }
+  ],
+  "donationSection": {
+    "subtitle": "Make a Difference",
+    "title": "Your Donation Matters",
+    "description": "Every rupee you donate directly impacts lives. Choose an amount and help us create lasting change.",
+    "amounts": [100, 500, 1000, 5000],
+    "footerNote": "Secure payment powered by Razorpay. Tax deductible under 80G."
+  },
+  "volunteerCTA": {
+    "subtitle": "Join Our Mission",
+    "title": "Become a Volunteer & Make an Impact",
+    "description": "Join thousands of passionate individuals who are making a difference. Whether you can spare a few hours or a few days, your skills and time can transform lives.",
+    "image": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+    "floatingStatValue": "5,000+",
+    "floatingStatLabel": "Active Volunteers",
+    "benefits": [
+      { "icon": "FaMapMarkerAlt", "text": "Work across 15+ cities in India" },
+      { "icon": "FaClock", "text": "Flexible schedules - weekdays, weekends, or both" },
+      { "icon": "FaUsers", "text": "Join a community of 5,000+ changemakers" }
+    ],
+    "ctaText": "Join as Volunteer"
+  },
+  "gallerySection": {
+    "subtitle": "Our Work in Action",
+    "title": "Photo Gallery",
+    "description": "A glimpse into the impact we create every day across communities."
+  },
+  "gallery": [
+    { "id": 1, "src": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600&q=80", "alt": "Education program classroom" },
+    { "id": 2, "src": "https://images.unsplash.com/photo-1593113598332-cd288d649433?w=600&q=80", "alt": "Food distribution drive" },
+    { "id": 3, "src": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=600&q=80", "alt": "Medical camp in rural area" },
+    { "id": 4, "src": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=600&q=80", "alt": "Community development project" },
+    { "id": 5, "src": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=600&q=80", "alt": "Volunteer team at work" },
+    { "id": 6, "src": "https://images.unsplash.com/photo-1542810634-71277d95dcbb?w=600&q=80", "alt": "Children in school program" }
+  ],
+  "teamMembers": [
+    {
+      "name": "Arun Kumar Patel",
+      "role": "Founder & President",
+      "bio": "With over 20 years of social work experience, Arun founded AKP Welfare Foundation with a vision to create lasting change in underserved communities.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80"
+    },
+    {
+      "name": "Dr. Priya Sharma",
+      "role": "Director of Programs",
+      "bio": "A public health expert who oversees all welfare programs and ensures maximum impact in every community we serve.",
+      "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80"
+    },
+    {
+      "name": "Rajesh Menon",
+      "role": "Head of Operations",
+      "bio": "Rajesh brings 15 years of NGO management experience, ensuring smooth execution of all field operations.",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80"
+    },
+    {
+      "name": "Sneha Gupta",
+      "role": "Volunteer Coordinator",
+      "bio": "Sneha manages our network of 5,000+ volunteers and drives community engagement across all programs.",
+      "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80"
+    }
+  ],
+  "milestones": [
+    { "year": "2018", "title": "Foundation Established", "description": "AKP Welfare Foundation was registered with a mission to serve underprivileged communities." },
+    { "year": "2019", "title": "First 1,000 Meals", "description": "Launched our food distribution program, serving 1,000 meals in the first month." },
+    { "year": "2020", "title": "COVID Relief", "description": "Provided emergency relief to 10,000+ families during the pandemic." },
+    { "year": "2021", "title": "Education Centers", "description": "Opened 50 community learning centers across 3 states." },
+    { "year": "2022", "title": "Healthcare Expansion", "description": "Conducted 200+ medical camps serving 30,000+ patients." },
+    { "year": "2023", "title": "National Recognition", "description": "Awarded Best NGO for Community Development by the Ministry of Social Justice." },
+    { "year": "2024", "title": "250K Meals Milestone", "description": "Crossed 250,000 meals served and expanded to 15 cities." }
+  ],
+  "footer": {
+    "tagline": "Empowering communities through education, nutrition, healthcare, and sustainable development since 2018."
+  },
+  "seo": {
+    "title": "AKP Welfare Foundation - Together We Can Change Lives",
+    "description": "AKP Welfare Foundation is a registered NGO dedicated to empowering underprivileged communities through education, food distribution, healthcare, and community welfare programs across India."
+  }
+}
